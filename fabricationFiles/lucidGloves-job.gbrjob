@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.3"
     },
-    "CreationDate": "2024-07-02T19:52:34-05:00"
+    "CreationDate": "2024-07-03T01:18:00-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -67,8 +67,23 @@
       "FilePolarity": "Negative"
     },
     {
+      "Path": "lucidGloves-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "lucidGloves-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "lucidGloves-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "lucidGloves-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
     }
   ],
